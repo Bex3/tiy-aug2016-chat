@@ -13,9 +13,9 @@ import java.util.Scanner;
 public class SampleClient {
 
     static final String HOST_ADDRESS = "localhost";
-//    static final String HOST_ADDRESS = "10.0.0.139";
-//    static final int PORT_NUMBER = 8005;
+//    static final String HOST_ADDRESS = "10.0.0.129";
     static final int PORT_NUMBER = 8005;
+//    static final int PORT_NUMBER = 8080;
 
     public static void main(String[] args) {
         new SampleClient().startClient();
